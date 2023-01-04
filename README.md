@@ -2,6 +2,13 @@
 Obfuscate and package python projects/scripts into one single executable file
 
 
+Table of Contents
+* [Prerequists](#Prerequists)
+* [Usage](#Usage)
+* [Output](#Output)
+
+
+
 ### Prerequists
   1) Make sure you installed project requirments in venv folder same project directory
   2) copy py_app_builder to same project folder and run
