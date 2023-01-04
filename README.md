@@ -10,3 +10,11 @@ Obfuscate and package python projects/scripts into one single executable file
   command:
   py_app_builder.exe <entry_script.py>
 ```
+### Output
+```bash
+[Windows]
+  <project_dir>/dist/<main.exe>
+  
+ [Linux]
+  <project_dir>/dist/<main>
+  ```
