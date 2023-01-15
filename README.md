@@ -12,6 +12,7 @@ Table of Contents
 ### Prerequists
   1) Make sure you installed project requirments in venv folder same project directory
   2) copy py_app_builder to same project folder and run
+  3) sudo chmod -R 777 <project_dir>
 ### Usage
 ```bash
   command:
